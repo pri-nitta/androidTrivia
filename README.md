@@ -15,20 +15,6 @@ The app navigates using buttons, the app bar, and a navigation drawer. Because
 students haven't yet learned about saving data or the Android lifecycle, the app
 tries to eliminate bugs caused by configuration changes.
 
-Prerequisites
--------------
-
-You need to know:
-- The fundamentals of Kotlin.
-- How to create basic Android apps in Kotlin.
-- How to open, build, and run apps with Android Studio.
-- How to work with layouts.
-
-Getting started
----------------
-
-1. Download and run the app.
-
 License
 -------
 
